@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_number_one</string>
+    <string name="go">Go</string>
+    <string name="name">Name:</string>
+    <string name="password">Password:</string>
+    <string name="two">Hi</string>
+
+</resources>
